@@ -1,0 +1,21 @@
+2022-10-17 00:07:08,478 run.py[line:27] INFO =============Start API Test=============
+2022-10-17 00:09:55,174 run.py[line:27] INFO =============Start API Test=============
+2022-10-17 00:09:55,174 test_collect.py[line:30] INFO test01_login
+2022-10-17 00:09:56,038 test_collect.py[line:52] INFO test02_collect_list
+2022-10-17 00:09:56,200 test_collect.py[line:62] INFO test03_collect_article
+2022-10-17 00:11:42,912 run.py[line:27] INFO =============Start API Test=============
+2022-10-17 00:11:42,912 test_collect.py[line:30] INFO test01_login
+2022-10-17 00:11:43,760 test_collect.py[line:52] INFO test02_collect_list
+2022-10-17 00:11:43,914 test_collect.py[line:62] INFO test03_collect_article
+2022-10-17 00:16:28,121 run.py[line:27] INFO =============Start API Test=============
+2022-10-17 00:16:28,128 test_collect.py[line:30] INFO test01_login
+2022-10-17 00:16:28,788 test_collect.py[line:52] INFO test02_collect_list
+2022-10-17 00:16:28,944 test_collect.py[line:62] INFO test03_collect_article
+2022-10-17 00:29:20,798 run.py[line:27] INFO =============Start API Test=============
+2022-10-17 00:29:20,798 test_collect.py[line:30] INFO test01_login
+2022-10-17 00:29:32,511 test_collect.py[line:52] INFO test02_collect_list
+2022-10-17 00:29:32,646 test_collect.py[line:62] INFO test03_collect_article
+2022-10-17 00:35:35,740 run.py[line:27] INFO =============Start API Test=============
+2022-10-17 00:35:35,740 test_collect.py[line:30] INFO test01_login
+2022-10-17 00:35:36,410 test_collect.py[line:52] INFO test02_collect_list
+2022-10-17 00:35:36,571 test_collect.py[line:62] INFO test03_collect_article
