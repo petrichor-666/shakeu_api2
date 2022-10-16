@@ -20,7 +20,7 @@ import logging
 # print(res.text)
 class TestLogin(unittest.TestCase):
     def setUp(self):
-        self.host_url = 'https://www.wanandroid.com'
+        self.host_url = 'https://www.wanandroid.com'    # host_url
         self.session = requests.session()
         # 解决错误 ResourceWarning: Enable tracemalloc to get the object allocation traceback
         warnings.simplefilter('ignore', ResourceWarning)
